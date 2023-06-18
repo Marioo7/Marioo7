@@ -3,7 +3,7 @@
      <a href="mailto:mariofathy18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mario-fathy-angulardev/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
-<h3 align="center">Frontend Developer | Angular | React</h3>
+<h3 align="center">Frontend Developer | Angular</h3>
 
 I'm a Frontend Developer with experience in Angular and React. I have a passion for creating modern and engaging web applications that meet the needs of clients and end-users. I prioritize clean and maintainable code that is easy to read and understand, and am committed to delivering high-quality code that meets project deadlines and exceeds client expectations.
 
