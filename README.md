@@ -4,9 +4,7 @@
   <a href="https://www.linkedin.com/in/mario-fathy-angulardev/"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/MariOoO34579208"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mario%20Fathy&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Angular%20%26%20React&descAlignY=58&descSize=18" width="100%" />
-</p>
+<h3 align="center">Frontend Developer | Angular & React</h3>
 
 I'm a Frontend Developer with 3 years of experience building real-world web applications with **Angular** and **React**. I focus on responsive, scalable and maintainable user interfaces, and I prioritize clean code that is easy to read and understand. I work in agile teams and care about delivering high-quality work on time.
 
